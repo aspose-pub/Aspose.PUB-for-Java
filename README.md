@@ -1,3 +1,4 @@
+![GitHub](https://img.shields.io/github/license/aspose-pub/Aspose.pub-for-java)
 # Process PUB files via Java API
 
 [Aspose.PUB for Java](https://products.aspose.com/pub/java) is a Java API that can read, manipulate and convert Microsoft Publisher (.pub) files to PDF. You can use the API in your Java applications to work with .pub files without worrying about the underlying filie format. The API can be used in Java desktop as well as web applications using JSP. The API is light, easy to use and simplifies your application with simple lines of code in your application.
